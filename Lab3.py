@@ -1,6 +1,4 @@
-#Muhammad Faraz Sohail (Faraz Sohail on BlackBoard)
-#104986019
-#Lab3
+#Muhammad Faraz Sohail
 
 c1=0.10 #conatiners holding litre or less
 c2=0.25 #containers holding more than litre
